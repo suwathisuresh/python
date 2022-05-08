@@ -1,0 +1,13 @@
+radius=float(input("enter the radius of the circle is="))
+enter the radius of the circle=1.1
+area=3.1428*radius*radius
+print("the area of the circle is ",area)
+the area of the circle is 3.802788
+
+
+
+filename=input("enter the filename=*)
+enter the filename=abc.python
+exten=filename.split(".")
+print("the extension of the file is",exten[-1])
+the extension of the file is python
